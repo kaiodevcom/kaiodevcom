@@ -6,9 +6,9 @@ Eu sou o Kaio Vitor, eu sou um Programador Front End, atualmente estou desenvolv
 
 
 <a href="https://www.instagram.com/heykaioo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href=""><https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white></a>
+<a href="https://www.linkedin.com/in/kaio-vitor-lkd/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <!--
-**kaiodevcom/kaiodevcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*lin*kaiodevcom/kaiodevcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
