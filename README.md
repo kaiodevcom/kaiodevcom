@@ -4,7 +4,9 @@
 Eu sou o Kaio Vitor, eu sou um Programador Front End, atualmente estou desenvolvendo e criando projetos com:
 <br>
 - HTML 
-- CSS 
+- CSS
+- JavaScript
+- NodeJS 
 <br>
 <br>
 Conect-se comigo:
