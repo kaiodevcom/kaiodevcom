@@ -9,6 +9,9 @@ Eu sou o Kaio Vitor, eu sou um Programador Front End, atualmente estou desenvolv
 - NodeJS 
 <br>
 <br>
+Atualmente estudo outras tecnologias, e estou em constante aprendizado.
+<br>
+<br>
 Conect-se comigo:
 <br>
 <br>
